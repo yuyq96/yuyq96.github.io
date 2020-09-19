@@ -111,7 +111,7 @@ projects:
     assignments:
       - title: D-TDNN
         link: "https://github.com/yuyq96/D-TDNN"
-        tagline: "Pytorch implementation of Densely Connected Time Delay Neural Networks"
+        tagline: "PyTorch implementation of Densely Connected Time Delay Neural Networks"
 
       - title: KaldiFeat
         link: "https://github.com/yuyq96/kaldifeat"
