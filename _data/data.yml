@@ -97,6 +97,12 @@ experiences:
           - Developed a speaker retrieval demonstration system
           - Proposed a novel approach to noise-robust speaker recognition
 
+awards:
+    - name: Huawei Scholarship, Nanjing, China
+      time: 2019
+    - name: Tongdun Speaker Verification Competition (2/345, ¥50,000), Hangzhou, China
+      time: 2018
+
 projects:
     title: Projects
     intro:
