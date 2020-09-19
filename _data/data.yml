@@ -94,7 +94,7 @@ experiences:
       details: |
         Task: Speaker Recognition
           - Large-scale speaker retrieval
-          - Noise-robust speaker recognition
+          - Noise-robust speaker verification
 
 awards:
     - name: Huawei Scholarship
