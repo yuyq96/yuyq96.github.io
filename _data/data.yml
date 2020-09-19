@@ -133,18 +133,18 @@ publications:
     papers:
       - title: Densely Connected Time Delay Neural Network for Speaker Verification
         link: "#"
-        authors: **Ya-Qi Yu** and Wu-Jun Li
-        conference: Proceedings of the Annual Conference of the International Speech Communication Association (**INTERSPEECH**), Shanghai, China, 2020
+        authors: Ya-Qi Yu and Wu-Jun Li
+        conference: Proceedings of the Annual Conference of the International Speech Communication Association (INTERSPEECH), Shanghai, China, 2020
 
       - title: Deep Hashing for Speaker Identification and Retrieval
         link: "#"
-        authors: Lei Fan, Qing-Yuan Jiang, **Ya-Qi Yu** and Wu-Jun Li
-        conference: Proceedings of the Annual Conference of the International Speech Communication Association (**INTERSPEECH**), Graz, Austria, 2019
+        authors: Lei Fan, Qing-Yuan Jiang, Ya-Qi Yu and Wu-Jun Li
+        conference: Proceedings of the Annual Conference of the International Speech Communication Association (INTERSPEECH), Graz, Austria, 2019
 
-      - title: **Ya-Qi Yu**, Lei Fan and Wu-Jun Li
+      - title: Ya-Qi Yu, Lei Fan and Wu-Jun Li
         link: "#"
         authors: Ensemble Additive Margin Softmax for Speaker Verification
-        conference: Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Brighton, UK, 2019
+        conference: Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, 2019
 
 skills:
     title: Skills &amp; Proficiency
