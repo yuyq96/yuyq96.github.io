@@ -98,9 +98,11 @@ experiences:
           - Proposed a novel approach to noise-robust speaker recognition
 
 awards:
-    - name: Huawei Scholarship, Nanjing, China
+    - name: Huawei Scholarship
+      location: Nanjing, China
       time: 2019
-    - name: Tongdun Speaker Verification Competition (2/345, ¥50,000), Hangzhou, China
+    - name: Tongdun Speaker Verification Competition (2/345, ¥50,000)
+      location: Hangzhou, China
       time: 2018
 
 projects:
