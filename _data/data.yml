@@ -30,7 +30,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Daily Conversation
 
     interests:
       - item: Photography
@@ -42,17 +42,21 @@ sidebar:
 career-profile:
     title: Biography
     summary: |
-      Currently I am a M.Sc. candidate of
+      Currently I am a M.Sc. candidate of the
       [Department of Computer Science and Technology](https://cs.nju.edu.cn)
-      in [Nanjing University](https://www.nju.edu.cn) and a member of
+      in [Nanjing University](https://www.nju.edu.cn) and a member of the
       [LAMDA Group](http://www.lamda.nju.edu.cn), which is lead by Professor
       [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh).
       
       I received my B.Sc. degree in Computer Science and Technology from
-      [Nanjing University](https://www.nju.edu.cn) in June 2018. In the
-      same year, I was admitted to study for a M.Sc. degree in
+      [Nanjing University](https://www.nju.edu.cn) in June 2018.
+      In the same year, I was admitted to study for a M.Sc. degree in
+      Computer Science and Technology in
       [Nanjing University](https://www.nju.edu.cn) without entrance
       examination.
+      
+      I am interested in machine learning and data mining.
+      Currently, I am focusing on deep learning for speech and computer vision.
 
 supervisor:
     title: Supervisor
