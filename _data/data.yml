@@ -53,7 +53,12 @@ career-profile:
       [Nanjing University](https://www.nju.edu.cn) without entrance examination.
       
       I am interested in machine learning and data mining.
-      Currently, I am focusing on deep learning for speech and computer vision.
+      Currently, I am focusing on:
+      - Speaker Recognition
+      - Face Recognition
+      - Speech Enhancement
+      - Speech Recognition
+      - Speech Synthesis
 
 supervisor:
     title: Supervisor
