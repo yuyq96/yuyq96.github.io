@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -42,11 +42,22 @@ sidebar:
 career-profile:
     title: Biography
     summary: |
+      Currently I am a M.Sc. candidate of
+      [Department of Computer Science and Technology](https://cs.nju.edu.cn)
+      in [Nanjing University](https://www.nju.edu.cn) and a member of
+      [LAMDA Group](http://www.lamda.nju.edu.cn), which is lead by Professor
+      [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh).
       I received my B.Sc. degree in Computer Science and Technology from
       [Nanjing University](https://www.nju.edu.cn) in June 2018. In the
       same year, I was admitted to study for a M.Sc. degree in
       [Nanjing University](https://www.nju.edu.cn) without entrance
       examination.
+
+career-profile:
+    title: Supervisor
+    summary: |
+      Associate Professor [Wu-Jun Li](https://cs.nju.edu.cn/lwj)
+
 education:
     - degree: M.Sc. in Computer Science and Technology
       university: Nanjing University
