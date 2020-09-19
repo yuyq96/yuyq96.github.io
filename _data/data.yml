@@ -30,7 +30,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Daily Conversation
+        level:
 
     interests:
       - item: Photography
