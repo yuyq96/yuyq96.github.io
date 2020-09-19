@@ -30,14 +30,11 @@ sidebar:
         level: Native
 
       - idiom: English
-        level:
 
     interests:
       - item: Photography
-        link:
 
       - item: Painting
-        link:
 
 career-profile:
     title: Biography
@@ -67,11 +64,9 @@ education:
     - degree: M.Sc. in Computer Science and Technology
       university: Nanjing University
       time: 2018 - Now
-      details: |
     - degree: B.Sc. in Computer Science and Technology
       university: Nanjing University
       time: 2014 - 2018
-      details: |
 
 publications:
     title: Publications
@@ -97,7 +92,7 @@ experiences:
       time: June 2020 - August 2020
       company: Speech Lab, Alibaba DAMO Academy, Hangzhou, China
       details: |
-        Speaker Recognition
+        "Task: Speaker Recognition"
           - Developed a speaker retrieval demonstration system
           - Proposed a novel approach to noise-robust speaker recognition
 
