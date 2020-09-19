@@ -40,25 +40,21 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Biography
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I received my B.Sc. degree in Computer Science and Technology from
+      Nanjing University in June 2018. In the same year, I was admitted
+      to study for a M.Sc. degree in Nanjing University without entrance
+      examination.
 education:
     - degree: M.Sc. in Computer Science and Technology
       university: Nanjing University
       time: 2018 - Now
       details: |
-        In 2018, I was admitted to study for a M.Sc. degree in [Nanjing University](https://www.nju.edu.cn/) without entrance examination.
     - degree: B.Sc. in Computer Science and Technology
       university: Nanjing University
       time: 2014 - 2018
       details: |
-        I received my B.Sc. degree in Computer Science and Technology from [Nanjing University](https://www.nju.edu.cn) in June 2018.
 experiences:
     - role: Lead Developer
       time: 2015 - Present
