@@ -177,6 +177,7 @@ p {
     }
     .upper-row {
         position: relative;
+	overflow: visible;
 //         overflow: hidden;
         margin-bottom: 2px;
     }
@@ -184,14 +185,16 @@ p {
         color: $text-color;
         font-size: 16px;
         margin-top: 0;
-        margin-bottom: 0;
+        margin-bottom: 2px;
         font-weight: 500;
     }
     .time {
-        position: absolute;
-        right: 0;
-        top: 0;
-	margin-bottom: 0;
+//         position: absolute;
+//         right: 0;
+//         top: 0;
+	margin-right: 0;
+	margin-bottom: 0px;
+	margin-bottom: 2px;
         color: $text-grey;
     }
     .company, .university {
