@@ -43,8 +43,9 @@ career-profile:
     title: Biography
     summary: |
       I received my B.Sc. degree in Computer Science and Technology from
-      Nanjing University in June 2018. In the same year, I was admitted
-      to study for a M.Sc. degree in Nanjing University without entrance
+      [Nanjing University](https://www.nju.edu.cn) in June 2018. In the
+      same year, I was admitted to study for a M.Sc. degree in
+      [Nanjing University](https://www.nju.edu.cn) without entrance
       examination.
 education:
     - degree: M.Sc. in Computer Science and Technology
@@ -93,36 +94,10 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
-    intro: |
+    intro:
     papers:
       - title: Densely Connected Time Delay Neural Network for Speaker Verification
         link: "#"
@@ -138,6 +113,22 @@ publications:
         link: "#"
         authors: Ya-Qi Yu, Lei Fan and Wu-Jun Li
         conference: "In: Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, 2019"
+
+projects:
+    title: Projects
+    intro:
+    assignments:
+      - title: D-TDNN
+        link: "https://github.com/yuyq96/D-TDNN"
+        tagline: "Pytorch implementation of Densely Connected Time Delay Neural Networks"
+
+      - title: KaldiFeat
+        link: "https://github.com/yuyq96/kaldifeat"
+        tagline: "A light-weight Python library for computing Kaldi-style acoustic features based on NumPy"
+
+      - title: PyShengyun
+        link: "https://github.com/yuyq96/pyshengyun"
+        tagline: "A Python converter for Chinese Pinyin and Shengyun (initials and finals)"
 
 skills:
     title: Skills &amp; Proficiency
