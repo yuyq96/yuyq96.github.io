@@ -56,44 +56,6 @@ education:
       university: Nanjing University
       time: 2014 - 2018
       details: |
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
 
 publications:
     title: Publications
@@ -113,6 +75,15 @@ publications:
         link: "#"
         authors: Ya-Qi Yu, Lei Fan and Wu-Jun Li
         conference: "In: Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, 2019"
+
+experiences:
+    - role: Algorithm Engineer Intern
+      time: June 2020 - August 2020
+      company: Speech Lab, Alibaba DAMO Academy, Hangzhou, China
+      details: |
+        During the internship, I focused on speaker recognition
+          - Developed a speaker retrieval demonstration system
+          - Proposed a novel approach to noise-robust speaker recognition
 
 projects:
     title: Projects
@@ -134,8 +105,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: PyTorch
+        level: 90%
+
+      - name: Kaldi
+        level: 80%
+
       - name: Python
         level: 90%
 
       - name: C & C++
-        level: 60%
+        level: 70%
