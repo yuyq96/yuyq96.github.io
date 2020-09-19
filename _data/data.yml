@@ -127,9 +127,6 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: Densely Connected Time Delay Neural Network for Speaker Verification
         link: "#"
@@ -141,9 +138,9 @@ publications:
         authors: Lei Fan, Qing-Yuan Jiang, Ya-Qi Yu and Wu-Jun Li
         conference: Proceedings of the Annual Conference of the International Speech Communication Association (INTERSPEECH), Graz, Austria, 2019
 
-      - title: Ya-Qi Yu, Lei Fan and Wu-Jun Li
+      - title: Ensemble Additive Margin Softmax for Speaker Verification
         link: "#"
-        authors: Ensemble Additive Margin Softmax for Speaker Verification
+        authors: Ya-Qi Yu, Lei Fan and Wu-Jun Li
         conference: Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, 2019
 
 skills:
