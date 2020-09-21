@@ -46,7 +46,7 @@ career-profile:
       [LAMDA Group](http://www.lamda.nju.edu.cn), lead by Professor
       [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh).
       
-      I received my B.Sc. degree in Computer Science and Technology from
+      Before that, I received my B.Sc. degree in Computer Science and Technology from
       [Nanjing University](https://www.nju.edu.cn) in June 2018.
       In the same year, I was admitted to study for a M.Sc. degree in
       Computer Science and Technology in
@@ -98,8 +98,8 @@ experiences:
       company: Speech Lab, Alibaba DAMO Academy, Hangzhou, China
       details: |
         Team: Speaker Recognition
-          - Large-scale speaker retrieval
-          - Noise-robust speaker verification
+          - Deep hashing-based large-scale speaker retrieval
+          - Noise-robust speaker embedding
 
 awards:
     - name: Huawei Scholarship
