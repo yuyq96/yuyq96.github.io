@@ -80,7 +80,7 @@ publications:
     intro:
     papers:
       - title: Densely Connected Time Delay Neural Network for Speaker Verification
-        link: "#"
+        link: "https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1275.html"
         authors: <b>Ya-Qi Yu</b> and Wu-Jun Li
         conference: "Proceedings of the Annual Conference of the International Speech Communication Association (INTERSPEECH), Shanghai, China, 2020"
 
