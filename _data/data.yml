@@ -85,12 +85,12 @@ publications:
         conference: "Proceedings of the Annual Conference of the International Speech Communication Association (INTERSPEECH), Shanghai, China, 2020"
 
       - title: Deep Hashing for Speaker Identification and Retrieval
-        link: "#"
+        link: "https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2457.html"
         authors: Lei Fan, Qing-Yuan Jiang, <b>Ya-Qi Yu</b> and Wu-Jun Li
         conference: "Proceedings of the Annual Conference of the International Speech Communication Association (INTERSPEECH), Graz, Austria, 2019"
 
       - title: Ensemble Additive Margin Softmax for Speaker Verification
-        link: "#"
+        link: "https://ieeexplore.ieee.org/document/8683649"
         authors: <b>Ya-Qi Yu</b>, Lei Fan and Wu-Jun Li
         conference: "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, 2019"
 
