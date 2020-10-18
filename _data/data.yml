@@ -75,7 +75,7 @@ education:
 
 publications:
     title: Publications
-    intro: <a link="https://scholar.google.com/citations?user=6JfwpDsAAAAJ&hl=en">Google Scholar Profile</a>
+    intro: <a href="https://scholar.google.com/citations?user=6JfwpDsAAAAJ&hl=en">Google Scholar Profile</a>
     papers:
       - title: Densely Connected Time Delay Neural Network for Speaker Verification
         link: "https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1275.html"
