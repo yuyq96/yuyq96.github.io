@@ -63,7 +63,7 @@ career-profile:
 supervisor:
     title: Supervisor
     summary: |
-      Associate Professor [Wu-Jun Li](https://cs.nju.edu.cn/lwj)
+      Professor [Wu-Jun Li](https://cs.nju.edu.cn/lwj)
 
 education:
     - degree: M.Sc. in Computer Science and Technology
@@ -107,6 +107,9 @@ experiences:
           - Noise-robust speaker embedding
 
 awards:
+    - name: Excellent Graduate Student
+      location: Nanjing University, Nanjing, China
+      time: December 2020
     - name: Excellence Scholarship
       location: Nanjing University, Nanjing, China
       time: October 2020
