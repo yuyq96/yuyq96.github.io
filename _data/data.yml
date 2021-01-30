@@ -77,6 +77,11 @@ publications:
     title: Publications
     intro: <a href="https://scholar.google.com/citations?user=6JfwpDsAAAAJ&hl=en">Google Scholar Profile</a>
     papers:
+      - title: Focus: Context-Aware Masking for Robust Speaker Verification
+        link: ""
+        authors: <b>Ya-Qi Yu</b>, Siqi Zheng, Hongbin Suo, Yun Lei and Wu-Jun Li
+        conference: "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Canada, 2021"
+
       - title: Densely Connected Time Delay Neural Network for Speaker Verification
         link: "http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=272&id=497"
         authors: <b>Ya-Qi Yu</b> and Wu-Jun Li
@@ -119,6 +124,10 @@ projects:
       - title: D-TDNN
         link: "https://github.com/yuyq96/D-TDNN"
         tagline: "PyTorch implementation of Densely Connected Time Delay Neural Networks"
+
+      - title: pytorch-recipe-voxceleb
+        link: "https://github.com/yuyq96/pytorch-recipe-voxceleb"
+        tagline: "PyTorch recipe for training state-of-the-art speaker verification models on VoxCeleb"
 
       - title: KaldiFeat
         link: "https://github.com/yuyq96/kaldifeat"
