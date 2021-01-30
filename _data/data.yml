@@ -5,12 +5,10 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-
     # Profile information
     name: Ya-Qi Yu
     tagline: (Y.-Q. Yu)<br>余亚奇<br>M.Sc. Candidate<br><a href="http://www.lamda.nju.edu.cn/">LAMDA Group</a><br><a href="https://cs.nju.edu.cn">Dept. of Computer Science</a><br><a href="https://keysoftlab.nju.edu.cn">State Key Laboratory</a><br><a href="https://www.nju.edu.cn"> Nanjing University</a>
     avatar: yuyq.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
     # Sidebar links
     email: yuyq@lamda.nju.edu.cn
     phone:
@@ -24,17 +22,13 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-
     languages:
       - idiom: Chinese
         level: Native
-
       - idiom: English
-
     interests:
       - item: Photography
         link: https://tuchong.com/2696014
-
       - item: Painting
 
 career-profile:
@@ -81,17 +75,14 @@ publications:
         link: ""
         authors: <b>Ya-Qi Yu</b>, Siqi Zheng, Hongbin Suo, Yun Lei and Wu-Jun Li
         conference: "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Canada, 2021"
-
       - title: "Densely Connected Time Delay Neural Network for Speaker Verification"
-        link: "http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=272&id=497"
+        link: "https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1275.html"
         authors: <b>Ya-Qi Yu</b> and Wu-Jun Li
         conference: "Proceedings of the Annual Conference of the International Speech Communication Association (INTERSPEECH), Shanghai, China, 2020"
-
       - title: "Deep Hashing for Speaker Identification and Retrieval"
         link: "https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2457.html"
         authors: Lei Fan, Qing-Yuan Jiang, <b>Ya-Qi Yu</b> and Wu-Jun Li
         conference: "Proceedings of the Annual Conference of the International Speech Communication Association (INTERSPEECH), Graz, Austria, 2019"
-
       - title: "Ensemble Additive Margin Softmax for Speaker Verification"
         link: "https://ieeexplore.ieee.org/document/8683649"
         authors: <b>Ya-Qi Yu</b>, Lei Fan and Wu-Jun Li
@@ -124,34 +115,27 @@ projects:
     title: Projects
     intro:
     assignments:
-      - title: D-TDNN
-        link: "https://github.com/yuyq96/D-TDNN"
-        tagline: "PyTorch implementation of Densely Connected Time Delay Neural Networks"
-
       - title: pytorch-recipe-voxceleb
         link: "https://github.com/yuyq96/pytorch-recipe-voxceleb"
         tagline: "PyTorch recipe for training state-of-the-art speaker verification models on VoxCeleb"
-
+      - title: D-TDNN
+        link: "https://github.com/yuyq96/D-TDNN"
+        tagline: "PyTorch implementation of Densely Connected Time Delay Neural Networks"
       - title: KaldiFeat
         link: "https://github.com/yuyq96/kaldifeat"
         tagline: "A light-weight Python library for computing Kaldi-style acoustic features based on NumPy"
-
       - title: PyShengyun
         link: "https://github.com/yuyq96/pyshengyun"
         tagline: "A Python converter for Chinese Pinyin and Shengyun (initials and finals)"
 
 skills:
     title: Skills
-
     toolset:
       - name: PyTorch
         level: 90%
-
       - name: Kaldi
         level: 80%
-
       - name: Python
         level: 90%
-
       - name: C & C++
         level: 65%
