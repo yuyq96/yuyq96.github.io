@@ -71,7 +71,7 @@ publications:
     title: Publications
     intro: <a href="https://scholar.google.com/citations?user=6JfwpDsAAAAJ&hl=en">Google Scholar Profile</a>
     papers:
-      - title: "Focus: Context-Aware Masking for Robust Speaker Verification"
+      - title: "FOCUS: Context-Aware Masking for Robust Speaker Verification"
         link: ""
         authors: <b>Ya-Qi Yu</b>, Siqi Zheng, Hongbin Suo, Yun Lei and Wu-Jun Li
         conference: "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Canada, 2021"
