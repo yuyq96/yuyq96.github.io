@@ -115,12 +115,9 @@ projects:
     title: Projects
     intro:
     assignments:
-      - title: pytorch-recipe-voxceleb
-        link: "https://github.com/yuyq96/pytorch-recipe-voxceleb"
-        tagline: "PyTorch recipe for training state-of-the-art speaker verification models on VoxCeleb"
       - title: D-TDNN
         link: "https://github.com/yuyq96/D-TDNN"
-        tagline: "PyTorch implementation of Densely Connected Time Delay Neural Networks"
+        tagline: "PyTorch implementation of densely connected time delay neural networks"
       - title: KaldiFeat
         link: "https://github.com/yuyq96/kaldifeat"
         tagline: "A light-weight Python library for computing Kaldi-style acoustic features based on NumPy"
