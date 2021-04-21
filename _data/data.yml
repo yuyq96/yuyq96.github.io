@@ -90,13 +90,12 @@ publications:
 
 experiences:
     - role: Algorithm Engineer Intern
-      time: June 2020 - August 2020 (3 months)
+      time: June 2020 - August 2020
       company: Speech Lab, Alibaba DAMO Academy, Alibaba Group, Hangzhou, China
       details: |
         Work at speaker recognition group:
           - Deep hashing-based large-scale speaker retrieval
-          - Noise-robust speaker embedding
-          - Paper accpeted by ICASSP 2021
+          - Noise robust speaker verification (Paper accpeted by ICASSP 2021)
 
 awards:
     - name: Excellent Graduate Student
