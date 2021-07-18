@@ -7,12 +7,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
     # Profile information
     name: Ya-Qi Yu
-    tagline: (Y.-Q. Yu)<br>余亚奇<br>M.Sc. Candidate<br><a href="http://www.lamda.nju.edu.cn/">LAMDA Group</a><br><a href="https://cs.nju.edu.cn">Dept. of Computer Science</a><br><a href="https://keysoftlab.nju.edu.cn">State Key Laboratory</a><br><a href="https://www.nju.edu.cn"> Nanjing University</a>
+    tagline: (Y.-Q. Yu)<br>余亚奇<br>Senior Engineer<br>HUAWEI # <br><a href="http://www.lamda.nju.edu.cn/">LAMDA Group</a><br><a href="https://www.nju.edu.cn"> Nanjing University</a>
     avatar: yuyq.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
-    email: yuyq@lamda.nju.edu.cn
+    email: yuyq96@96.com
     phone:
-    website: www.lamda.nju.edu.cn/yuyq #do not add http://
+    website: yuyq96.github.io # do not add http://
     linkedin:
     xing:
     github: github.com/yuyq96
@@ -35,35 +35,24 @@ sidebar:
 career-profile:
     title: Biography
     summary: |
-      Currently, I am a M.Sc. candidate of
-      [Department of Computer Science and Technology](https://cs.nju.edu.cn)
-      in [Nanjing University](https://www.nju.edu.cn) and a member of
-      [LAMDA](http://www.lamda.nju.edu.cn) group, lead by Professor
-      [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh).
+    
+      I received my B.Sc. degree from the Department of Computer Science and Technology, Nanjing University in 2018.
       
-      Before that, I received my B.Sc. degree in Computer Science and Technology from
-      [Nanjing University](https://www.nju.edu.cn) in June 2018.
-      In the same year, I was admitted to study for a M.Sc. degree in
-      Computer Science and Technology in
-      [Nanjing University](https://www.nju.edu.cn) without entrance examination.
+      I received my M.Sc. degree from the [LAMDA](http://www.lamda.nju.edu.cn) group, Department of Computer Science and Technology, [Nanjing University](https://www.nju.edu.cn) in 2021, under the supervision of Professor [Wu-Jun Li](https://cs.nju.edu.cn/lwj).
       
       I am interested in machine learning and data mining.
       Currently, I am mainly focusing on:
+      - Text Recognition
       - Speaker Recognition
       
       I am also interested in:
       - Speech Recognition/Synthesis/Enhancement
       - Face Recognition
 
-supervisor:
-    title: Supervisor
-    summary: |
-      Professor [Wu-Jun Li](https://cs.nju.edu.cn/lwj)
-
 education:
     - degree: M.Sc. in Computer Science and Technology
       university: Nanjing University
-      time: 2018 - Now
+      time: 2018 - 2021
     - degree: B.Sc. in Computer Science and Technology
       university: Nanjing University
       time: 2014 - 2018
@@ -90,6 +79,9 @@ publications:
         conference: "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, 2019"
 
 experiences:
+    - role: Senior Algorithm Engineer
+      time: July 2021 - Now
+      company: HUAWEI, Shanghai, China
     - role: Algorithm Engineer Intern
       time: June 2020 - August 2020
       company: Speech Lab, Alibaba DAMO Academy, Alibaba Group, Hangzhou, China
@@ -108,7 +100,7 @@ awards:
     - name: Excellence Scholarship
       location: Nanjing University, Nanjing, China
       time: November 2020
-    - name: Huawei Scholarship
+    - name: HUAWEI Scholarship
       location: Nanjing University, Nanjing, China
       time: December 2019
     - name: Speaker Verification Competition (2/345, ¥50,000)
