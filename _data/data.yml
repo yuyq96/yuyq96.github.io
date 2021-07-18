@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
     # Profile information
     name: Ya-Qi Yu
-    tagline: (Y.-Q. Yu)<br>余亚奇<br>Senior Algorithm Engineer, M.Sc. <br>HUAWEI, Shanghai # <br><a href="http://www.lamda.nju.edu.cn/">LAMDA Group</a><br><a href="https://www.nju.edu.cn"> Nanjing University</a>
+    tagline: (Y.-Q. Yu)<br>余亚奇<br>Senior Algorithm Engineer <br>HUAWEI, Shanghai # <br><a href="http://www.lamda.nju.edu.cn/">LAMDA Group</a><br><a href="https://www.nju.edu.cn"> Nanjing University</a>
     avatar: yuyq.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
     email: yuyq96@126.com
