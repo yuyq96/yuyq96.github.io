@@ -46,10 +46,11 @@ career-profile:
       
       I am interested in machine learning and data mining.
       Currently, I am mainly focusing on:
-      - Text Recognition
-      - Speaker Recognition
+      - Multimodal Large Language Models
       
       I am also interested in:
+      - Text Recognition
+      - Speaker Recognition
       - Speech Recognition/Synthesis/Enhancement
       - Face Recognition
 
@@ -64,6 +65,10 @@ education:
 publications:
     title: Publications
     intro: <a href="https://scholar.google.com/citations?user=6JfwpDsAAAAJ&hl=en">Google Scholar Profile</a>
+    manuscripts:
+      - title: "TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models"
+        link: "https://arxiv.org/abs/2404.09204"
+        authors: <b>Ya-Qi Yu</b>, Minghui Liao, Jihao Wu, Yongxin Liao, Xiaoyu Zheng and Wei Zeng
     papers:
       - title: "CAM: Context-Aware Masking for Robust Speaker Verification"
         link: "https://ieeexplore.ieee.org/document/9414704"
