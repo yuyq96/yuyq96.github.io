@@ -66,10 +66,11 @@ publications:
     title: Publications
     intro: <a href="https://scholar.google.com/citations?user=6JfwpDsAAAAJ&hl=en">Google Scholar Profile</a>
     manuscripts:
+    papers:
       - title: "TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models"
         link: "https://arxiv.org/abs/2404.09204"
         authors: <b>Ya-Qi Yu</b>, Minghui Liao, Jihao Wu, Yongxin Liao, Xiaoyu Zheng and Wei Zeng
-    papers:
+        conference: "preprint"
       - title: "CAM: Context-Aware Masking for Robust Speaker Verification"
         link: "https://ieeexplore.ieee.org/document/9414704"
         authors: <b>Ya-Qi Yu</b>, Siqi Zheng, Hongbin Suo, Yun Lei and Wu-Jun Li
