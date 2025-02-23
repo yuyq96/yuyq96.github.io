@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
     # Profile information
     name: Ya-Qi Yu
-    tagline: (Y.-Q. Yu)<br>余亚奇<br>Senior Algorithm Engineer <br>HUAWEI, Shanghai # <br><a href="http://www.lamda.nju.edu.cn/">LAMDA Group</a><br><a href="https://www.nju.edu.cn"> Nanjing University</a>
+    tagline: (Y.-Q. Yu)<br>余亚奇<br>Chief Engineer <br>HUAWEI, Shanghai # <br><a href="http://www.lamda.nju.edu.cn/">LAMDA Group</a><br><a href="https://www.nju.edu.cn"> Nanjing University</a>
     avatar: yuyq.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
     email: yuyq96@126.com
@@ -42,7 +42,7 @@ career-profile:
       
       I received my M.Sc. degree from the [LAMDA](http://www.lamda.nju.edu.cn) group, Department of Computer Science and Technology, [Nanjing University](https://www.nju.edu.cn) in 2021, under the supervision of Professor [Wu-Jun Li](https://cs.nju.edu.cn/lwj).
       
-      Currently, I am a senior algorithm engineer at HUAWEI.
+      Currently, I am a chief engineer at HUAWEI.
       
       I am interested in machine learning and data mining.
       Currently, I am mainly focusing on:
@@ -68,10 +68,22 @@ publications:
     intro: <a href="https://scholar.google.com/citations?user=6JfwpDsAAAAJ&hl=en">Google Scholar Profile</a>
     manuscripts:
     papers:
+      - title: "TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens"
+        link: "https://arxiv.org/abs/2410.05261"
+        authors: <b>Ya-Qi Yu</b>, Minghui Liao, Jiwen Zhang, Jihao Wu
+        conference: "Technical Report, 2024"
+      - title: "Cross-Lingual Text-Rich Visual Comprehension: An Information Theory Perspective"
+        link: "https://arxiv.org/abs/2412.17787"
+        authors: Xinmiao Yu, Xiaocheng Feng, Yun Li, Minghui Liao, <b>Ya-Qi Yu</b>, Xiachong Feng, Weihong Zhong, Ruihan Chen, Mengkang Hu, Jihao Wu, Dandan Tu, Duyu Tang, Bing Qin
+        conference: "The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), Pennsylvania, USA, 2025"
+      - title: "UI-Hawk"
+        link: "https://www.preprints.org/manuscript/202408.2137"
+        authors: Jiwen Zhang, <b>Ya-Qi Yu</b>, Minghui Liao, Wentao Li, Jihao Wu, Zhongyu Wei
+        conference: "Under Review, 2024"
       - title: "TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models"
         link: "https://arxiv.org/abs/2404.09204"
         authors: <b>Ya-Qi Yu</b>, Minghui Liao, Jihao Wu, Yongxin Liao, Xiaoyu Zheng and Wei Zeng
-        conference: "Preprint, 2024"
+        conference: "Under Review, 2024"
       - title: "CAM: Context-Aware Masking for Robust Speaker Verification"
         link: "https://ieeexplore.ieee.org/document/9414704"
         authors: <b>Ya-Qi Yu</b>, Siqi Zheng, Hongbin Suo, Yun Lei and Wu-Jun Li
@@ -90,7 +102,10 @@ publications:
         conference: "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, 2019"
 
 experiences:
-    - role: Senior Algorithm Engineer
+    - role: Chief Engineer
+      time: October 2024 - Now
+      company: HUAWEI, Shanghai, China
+    - role: Senior Engineer
       time: July 2021 - Now
       company: HUAWEI, Shanghai, China
     - role: Algorithm Engineer Intern
