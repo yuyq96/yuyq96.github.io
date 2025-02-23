@@ -46,7 +46,7 @@ career-profile:
       
       I am interested in machine learning and data mining.
       Currently, I am mainly focusing on:
-      - Multimodal Large Language Models
+      - Large Multimodal Models
       
       I am also interested in:
       - Text Recognition
@@ -137,15 +137,18 @@ projects:
     title: Projects
     intro:
     assignments:
+      - title: R1-Vision
+        link: "https://github.com/yuyq96/R1-Vision"
+        tagline: "R1-Vision: Let's first take a look at the image"
+      - title: TextHawk
+        link: "https://github.com/yuyq96/TextHawk"
+        tagline: "TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models"
       - title: D-TDNN
         link: "https://github.com/yuyq96/D-TDNN"
         tagline: "PyTorch implementation of densely connected time delay neural networks"
       - title: KaldiFeat
         link: "https://github.com/yuyq96/kaldifeat"
         tagline: "A light-weight Python library for computing Kaldi-style acoustic features based on NumPy"
-      - title: PyShengyun
-        link: "https://github.com/yuyq96/pyshengyun"
-        tagline: "A Python converter for Chinese Pinyin and Shengyun (initials and finals)"
 
 skills:
     title: Skills
