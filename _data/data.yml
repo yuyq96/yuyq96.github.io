@@ -139,10 +139,10 @@ projects:
     assignments:
       - title: R1-Vision
         link: "https://github.com/yuyq96/R1-Vision"
-        tagline: "R1-Vision: Let's first take a look at the image"
+        tagline: "Let's first take a look at the image"
       - title: TextHawk
         link: "https://github.com/yuyq96/TextHawk"
-        tagline: "TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models"
+        tagline: "Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models"
       - title: D-TDNN
         link: "https://github.com/yuyq96/D-TDNN"
         tagline: "PyTorch implementation of densely connected time delay neural networks"
